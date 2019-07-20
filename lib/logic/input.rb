@@ -1,0 +1,1 @@
+class Logic::Input < Logic::IO; end
